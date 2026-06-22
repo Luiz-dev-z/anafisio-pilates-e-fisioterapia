@@ -74,8 +74,8 @@ Por fim, após a publicação do projeto, foram realizados testes de navegação
 - Seção com explicação mais aprofundada sobre os serviços;
 
 ## Links
-- Link do repositório: (será adicionado após a publicação)
-- Link do site publicado: (será adicionado após a publicação)
+- Link do repositório: https://github.com/Luiz-dev-z/anafisio-pilates-e-fisioterapia
+- Link do site publicado: https://luiz-dev-z.github.io/anafisio-pilates-e-fisioterapia/
 
 ## Contribuição
 - Luiz Eduardo Alves Feitosa
