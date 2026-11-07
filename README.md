@@ -1,5 +1,4 @@
-# Nome do projeto
-AnaFisio
+# AnaFisio
 
 ## Integrante
 - Luiz Eduardo Alves Feitosa
